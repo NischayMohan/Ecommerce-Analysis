@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Data files (optional, if too large)
+data/*.csv
+
+# Visualizations
+visualizations/
+EDA visualizations/
+eda/
+
+# OS files
+.DS_Store
+Thumbs.db
